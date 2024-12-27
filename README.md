@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Th3Flunky
+- 👋 Hi, I’m @Th3Flunky or Just the TheFlunky. 
 - 👀
 Flun·ky
 /ˈfləNGkē/
@@ -14,8 +14,8 @@ a person who performs relatively menial tasks for someone else, especially obseq
     minion lackey hireling subordinate underling servant retainer vassal puppet spaniel pawn tool creature instrument 
     cat's paw, stooge, sucker, yes-man, bitch, poodle, dogsbody, skivvy,
     
-Origin:
-mid 18th century (originally Scots): perhaps from flank in the sense ‘a person who stands at one's flank’.
+***Origin:***
+mid 18th century (originally Scots): perhaps from flank in the sense ***‘a person who stands at one's flank’***.
 
 
 <!---
