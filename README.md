@@ -19,6 +19,7 @@ a person who performs relatively menial tasks for someone else, especially obseq
 ***Origin:***
 mid 18th century (originally Scots): perhaps from flank in the sense ***‘a person who stands at one's flank’***.
 
+I'm just someone who has your back in short. 
 
 <!---
 Th3Flunky/Th3Flunky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
