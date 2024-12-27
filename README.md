@@ -1,5 +1,6 @@
 Hi, I’m @Th3Flunky or Just the TheFlunky. 
-Whats a Flunky you ask? 
+
+What's a Flunky you ask? 
   
 Flun·ky
 /ˈfləNGkē/
