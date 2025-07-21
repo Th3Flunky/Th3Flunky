@@ -21,7 +21,7 @@ mid 18th century (originally Scots): perhaps from flank in the sense ***‘a per
 
  ***@th30n30fmany PUBLIC PGP***
 
-
+```
                 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 mQINBGhprWYBEAC5u42ATS3QyCLwukrdLFs7t+Eclg6vonShvh1EfsoymQrX18zf
 oHq2apVhxB+KznDK6ZA0SGyVpgF4oTpvzzA5MDfZ6aP52aG8Fe91s9R23eLYDkmX
@@ -71,4 +71,5 @@ QzK6jBloT0+O75lJNVEIjALJ4va+BvrapjT1G8cnFxhSJPQFzl2kMtdr/9M7j7Bo
 sTO+OGa26mQjbiAjHlG1iXd/CeUdRz+H9y1J8722TFOl5ylw7k1whx/qpClBAS+v
 u76Nk/QozNQ4CKO2H1DXWhULhYNlHmnQ2OAP+3/CH8pARt23Lg+QcdE9/Yv+pcOB
 hTDh8Z1qwPxBb5Y= =XRmJ
-                -----END PGP PUBLIC KEY BLOCK-----
+        -----END PGP PUBLIC KEY BLOCK-----
+```
