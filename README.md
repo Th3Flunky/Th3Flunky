@@ -1,6 +1,6 @@
 Hi, I’m @th30n30fmany A.K.A The Flunky. 
 
-What's a Flunky you ask? 
+What's a Flunky you ask? just an alias for me. 
   
 Flun·ky
 /ˈfləNGkē/
